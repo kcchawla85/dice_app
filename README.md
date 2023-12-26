@@ -42,3 +42,5 @@ git clone git@github.com:kcchawla85/dice_app.git
 ## Contributing
 
 If you want to contribute to Dice App, feel free to open issues or submit pull requests. We welcome any improvements or additional features!
+
+## Visit Master Branch for source code
